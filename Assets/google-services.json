@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15521925975",
+    "project_id": "cutie-b37ef",
+    "storage_bucket": "cutie-b37ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15521925975:android:a60a7386b5c515c0618c12",
+        "android_client_info": {
+          "package_name": "com.TrixieDev.Cutie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuYXm6oNi9uFTBK1yzjF15mBTpdF3YHDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
